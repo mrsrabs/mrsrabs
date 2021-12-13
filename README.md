@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrabonKhan0461. You can call me Srabon
 - 👀 I’m a beginner whos learning to code
 - :snake: I’m currently learning python
-- <3 I just know some basic stuff about python so im not very efficient in it 
+- ♥️ I just know some basic stuff about python, gotta admit coding is quite challenging
 - 📫 My discord is Srab on#8530
 
 <!---
