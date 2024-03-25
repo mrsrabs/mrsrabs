@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SrabonKhan0461. You can call me Srabon
-- 👀 I’m a beginner whos learning to code
-- :snake: I’m currently learning python ( paused for school now )
-- 📫 My discord is Srab on#8530
+- 👋 Hi, I’m @mrsrabs. You can call me Srabon
+- 👀 I’m a beginner who's learning to code
+- :snake: I’m currently learning Python ( paused for school now )
+- 📫 My discord is srabn
 
 <!---
 SrabonKhan0461/SrabonKhan0461 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
